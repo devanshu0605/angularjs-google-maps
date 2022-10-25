@@ -30,7 +30,7 @@ There is a blog that introduces this module. The title of it is '[Google Map As 
 
 To get started
 --------------
-For Bower users,
+For Browser users,
 
   `$ bower install ngmap`
 
